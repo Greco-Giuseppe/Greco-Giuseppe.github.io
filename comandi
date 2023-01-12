@@ -1,0 +1,15 @@
+span - spazio 
+div - unisce, ad esempio un imaggine con un paragrafo 
+a - mettere i links  -> attributo: href
+img - immagine -> attributo: src
+    ->  width="100" 
+        height="100"
+    per modificare le dimensioni delle immagini 
+    -> se mettiamo tutte le immagini dentro un altro file, 
+    bisogna nominare l'interofile ,seguito da uno slash e poi 
+    l'immagine
+LISTA
+    <ol> lista ordinata
+    <ul> lista non ordinata 
+
+    <li> per scrivere l'elemnto della lista
