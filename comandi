@@ -1,4 +1,4 @@
-span - spazio 
+span - spazio (sulla stessa linea)
 div - unisce, ad esempio un imaggine con un paragrafo 
 a - mettere i links  -> attributo: href
 img - immagine -> attributo: src
@@ -8,8 +8,23 @@ img - immagine -> attributo: src
     -> se mettiamo tutte le immagini dentro un altro file, 
     bisogna nominare l'interofile ,seguito da uno slash e poi 
     l'immagine
+    si può chiudere in maniera particolare
 LISTA
     <ol> lista ordinata
     <ul> lista non ordinata 
 
     <li> per scrivere l'elemnto della lista
+
+section-per raggruppare più ordinatamente
+
+CSS (per renderlo più bello)
+div ---> selector
+    color: ;  ---> proprietà con il valore
+    font-family: ;
+    font-size: 24pt;
+parentesi graffa
+
+posso rinominare con div class = "ciccio"
+poi però devo mettere .ciccio RICORDARSI IL PUNTO
+
+rel ? 
