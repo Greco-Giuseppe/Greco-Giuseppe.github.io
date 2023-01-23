@@ -1,0 +1,23 @@
+img{
+    border-radius: 10px;
+}
+
+
+.u-center-box {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+h1{
+    background-color: rgb(12, 112, 179);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    padding-left: 1px;
+    padding-right: 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
