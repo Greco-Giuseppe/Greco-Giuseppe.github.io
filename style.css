@@ -1,12 +1,20 @@
 img {
-    width: 900px;
+    width: 950px;
     height: 600px
 }
 .image-box {
     display: flex ;
     justify-content: center;
 }
+div {
+    display: flex ;
+    justify-content: center;
+}
 h1 {
-    
+    display: flex ;
+    justify-content: center;
+}
+p {
+    display: flex ;
     justify-content: center;
 }
