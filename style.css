@@ -1,4 +1,6 @@
 img {
+    display: flex ;
+    justify-content: center;
     width: 950px;
     height: 600px
 }
@@ -15,6 +17,10 @@ h1 {
     justify-content: center;
 }
 p {
+    display: flex ;
+    justify-content: center;
+}
+.bmwsw {
     display: flex ;
     justify-content: center;
 }
